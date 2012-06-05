@@ -1,0 +1,4 @@
+A simple jQuery plugin to get the attributes of a html element.
+
+USAGE:
+$("#div_id").getAttributes();
